@@ -44,7 +44,7 @@ while True:
 
 ```
 
-## OUPUT
+## OUTPUT
 
 <img width="1883" height="1100" alt="image" src="https://github.com/user-attachments/assets/204c343b-0c89-448e-a448-cf12845787d2" />
 
